@@ -1,0 +1,41 @@
+.VariationsList {
+  height: 40px;
+  padding: 8px 12px 8px 50px;
+  border-radius: 7px;
+  background-color: #f0f2f5;
+  cursor: pointer;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  display: flex;
+}
+
+.VariationsList_icon {
+  border-left: 1px solid #dfe1e5;
+  margin: 0 10px 0 0;
+  line-height: 22px;
+  text-align: left;
+  position: relative;
+}
+
+.VariationsList_icon::after {
+  content: "O";
+  position: absolute;
+  left: -31px;
+  top: -9px;
+}
+
+.VariationsList_title {
+  width: 100%;
+  margin: 0;
+  line-height: 24px;
+  text-align: left;
+  font-size: 14px;
+  color: #ffffff;
+  position: relative;
+}
+
+.VariationsList_image {
+  height: 16px;
+  width: 16px;
+  margin: auto;
+}

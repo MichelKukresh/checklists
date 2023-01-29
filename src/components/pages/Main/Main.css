@@ -1,0 +1,9 @@
+.Main {
+  width: 100%;
+  border: 1px solid #eee;
+  min-height: 500px;
+  padding: 40px 0 0 0;
+  display: flex;
+  gap: 20px;
+  height: 100%;
+}

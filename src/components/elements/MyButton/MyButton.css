@@ -1,0 +1,12 @@
+.MyButton {
+  border-radius: 7px;
+  border: none;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  transition-timing-function: ease;
+  padding: 0px 12px 0px 12px;
+}
+
+.MyButton:hover {
+  opacity: 0.8;
+}

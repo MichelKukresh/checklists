@@ -1,0 +1,16 @@
+.Header {
+    min-height: 79px;
+    width: 100%;    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+.Header_ellipsis-lines {
+    font: inherit;
+    font-weight: 600;
+    font-size: 19px;    
+    margin: 0;
+}

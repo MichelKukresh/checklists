@@ -1,0 +1,26 @@
+.CardList {
+    flex: auto;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.CardList_headers {
+    border: 1px solid #eee;
+    background-color: #ffffff;
+    border-radius: 7px;
+    padding: 23px;
+    display: flex;
+    gap: 10px;
+
+}
+
+.CardList_add-place {
+    border: 1px solid #eee;
+    background-color: #ffffff;
+    border-radius: 7px;
+    padding: 23px;
+    display: flex;
+    gap: 10px;
+
+}

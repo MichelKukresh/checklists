@@ -1,0 +1,13 @@
+.VariationsMain {
+  width: 265px;
+  padding: 23px 23px 23px 23px;
+  border: 1px solid #eee;
+  background-color: #ffffff;
+  border-radius: 7px;
+}
+
+.VariationsMain_lists {
+  list-style: none;
+  padding: 0;
+  gap: 10px;
+}
