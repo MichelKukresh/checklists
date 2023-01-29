@@ -11,4 +11,4 @@
 interface PropsData {
   title?: string; // ? означает необизательный пункт
 }
-## статья [T](https://habr.com/ru/company/otus/blog/456124/) 
+## статья [TS](https://habr.com/ru/company/otus/blog/456124/) 
