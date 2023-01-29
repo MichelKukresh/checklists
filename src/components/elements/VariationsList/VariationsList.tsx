@@ -14,7 +14,7 @@ const VariationsList: React.FunctionComponent<PropsData> = ({ title }) => {
     <li className="VariationsList">
       <p className="VariationsList_icon"></p>      
       <p className="VariationsList_title">{title}</p>
-      <img className="VariationsList_image" alt="внимание" src={WarningCircle}></img>
+      <img className="VariationsList_image" alt="Внимание" src={WarningCircle}></img>
     </li>
   );
 };
